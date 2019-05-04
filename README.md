@@ -11,5 +11,5 @@ Thanks to [Jacob Caccamo](https://dribbble.com/jacobcaccamo) for this awesome de
 
 # TODO
 
-- [] Test on Android
+- [ ] Test on Android
 - [x] Test on iOS
