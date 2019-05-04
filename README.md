@@ -7,7 +7,7 @@ Thanks to [Jacob Caccamo](https://dribbble.com/jacobcaccamo) for this awesome de
 
 # How to use it
 
-`npm i && react-native run-ios`
+`npm i && react-native run-ios` || `yarn && react-native run-ios`
 
 # TODO
 
